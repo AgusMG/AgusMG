@@ -43,7 +43,7 @@
 <br>  </br>
 <a>
   <img align="left"  
-       width="450px" 
+       width="300px" 
        src="https://user-images.githubusercontent.com/69127998/185662676-7d801c66-dba3-4525-8d8b-1736e14c8d0a.gif" />
   </a>
 
