@@ -33,21 +33,7 @@
   </a>
 </h1>
 
-
-
-
 <!-- Background -->
-
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>  </br>
-<a>
-  <img align="left"  
-       width="300px" 
-       src="https://user-images.githubusercontent.com/69127998/185662676-7d801c66-dba3-4525-8d8b-1736e14c8d0a.gif" />
-  </a>
-
-
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
@@ -58,8 +44,6 @@
   
   </p>
   
-
-
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
   </strong>
@@ -68,13 +52,12 @@
       <div align="center">
     </p>
 
-
-
 <a href="https://github.com/AgusMG?tab=repositories">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusMG&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Lunox's favorite languages" />
 </a>
+                                       
 <br> </br>
 <a href="https://github.com/AgusMG">
   <img align="center"
